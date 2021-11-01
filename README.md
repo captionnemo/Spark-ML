@@ -19,6 +19,7 @@
 ***- Mô tả ngắn gọn về project mà nhóm muốn giải quyết: sử dụng Pyspark và thư viện Machine learning: Pyspark.MLlib với các thuật toán để dự đoán lương của người lao động.***
 
 ***- Mô tả ngắn gọn về tập dữ liệu: Tập dữ liệu về các chi tiết cá nhân để dự đoán xem một cá nhân sẽ kiếm được nhiều hơn hay ít hơn 50.000 đô la mỗi năm.***
+- Gồm có 48,842 dòng và 15 cột.
 
 	+ Age: Tuổi của người lao động
 
@@ -75,7 +76,7 @@
 
 	- Tìm và xử lý dữ liệu outliers(nếu có).
 
-	- Training dữ liệu trên các mô hình regression.
+	- Training dữ liệu trên các mô hình Classification.
 
 	- Chọn mô hình có kết quả tốt nhất.
 
