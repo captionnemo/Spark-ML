@@ -8,7 +8,7 @@
 
 ## 2. Giới thiệu sơ lược về project
 
-**- Tên project :** Phân tích và dự đoán mức lương ở Mỹ có trên 50k đô la hay không.
+**- Tên project :** Phân tích và dự đoán mức thu nhập ở Mỹ có trên 50k đô la hay không.
 
 **- Link project:** Imbalanced Classification with the Adult Income Dataset
 
