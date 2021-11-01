@@ -8,7 +8,7 @@
 
 ## 2. Giới thiệu sơ lược về project
 
-**- Tên project :** Phân tích và dự đoán mức thu nhập ở Mỹ có trên 50k đô la hay không.
+**- Tên project :** Phân tích và dự đoán mức thu nhập ở Mỹ.
 
 **- Link project:** Imbalanced Classification with the Adult Income Dataset
 
@@ -18,7 +18,8 @@
 
 ***- Mô tả ngắn gọn về project mà nhóm muốn giải quyết: sử dụng Pyspark và thư viện Machine learning: Pyspark.MLlib với các thuật toán để dự đoán lương của người lao động.***
 
-***- Mô tả ngắn gọn về tập dữ liệu: Tập dữ liệu về các chi tiết cá nhân để dự đoán xem một cá nhân sẽ kiếm được nhiều hơn hay ít hơn 50.000 đô la mỗi năm.***
+***- Mô tả ngắn gọn về tập dữ liệu:***
+- Bộ dữ liệu được lấy từ dữ liệu của Cục Điều tra Dân số Hoa Kỳ năm 1994 và liên quan đến việc sử dụng các chi tiết cá nhân như trình độ học vấn để dự đoán xem một cá nhân sẽ kiếm được nhiều hơn hay ít hơn 50.000 đô la mỗi năm.
 - Gồm có 48,842 dòng và 15 cột.
 
 	+ Age: Tuổi của người lao động
