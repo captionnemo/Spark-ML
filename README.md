@@ -56,7 +56,7 @@
 
 	- Nhóm dự định dùng những phương pháp, thuật toán nào để giải quyết bài toán đó?
 	
-	   Nhóm dự định sử dụng Random Forest để dự đoán tệp dữ liệu và phương pháp thử cross validation.
+	   Nhóm dự định sử dụng Random Forest để dự đoán tệp dữ liệu và phương pháp đánh giá cross validation.
 
 ## 4. Thực nghiệm
 
