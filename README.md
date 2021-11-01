@@ -52,6 +52,8 @@
 	+ Hours-per-week: Số giờ làm việc trong một tuần.
 
 	+ Native-country: Quê hương của người lao động.
+	
+	+ Income: Thu nhập trong 1 năm .
 
 ## 3. Giải pháp
 
