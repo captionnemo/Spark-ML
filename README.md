@@ -1,4 +1,4 @@
-### Nhóm môn Big Data Applications: Machine Learning at Scale
+### Nhóm 2 - Môn Big Data Applications: Machine Learning at Scale
 
 ## 1. Thành viên: 
 
@@ -26,9 +26,9 @@
 	+ Workclass: Tổ chức hoạt động.
 
 	+ Final Weight (fnlwgt): Trọng số cuối - Được tính từ 3 yếu tố:
-					+ Dân số từ 16 tuổi trở lên mỗi tiểu bang.
-					+ Nguồn gốc Tây Ban Nha theo độ tuổi và giới tính.
-					+ Kiểm soát theo chủng tộc, tuổi và giới tính.
+					 Dân số từ 16 tuổi trở lên mỗi tiểu bang.
+					 Nguồn gốc Tây Ban Nha theo độ tuổi và giới tính.
+					 Kiểm soát theo chủng tộc, tuổi và giới tính.
 
 	+ Education: Trình độ học vấn.
 
